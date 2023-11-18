@@ -39,6 +39,9 @@ body{
     background: white;
     padding: 1em;
 }
+#imagen{
+    width: 100%;
+}
 #footer{
     text-align: center;
     background-color: rgb(109, 137, 158);
