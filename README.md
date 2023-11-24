@@ -33,4 +33,4 @@
 
  [**Mira mi blog en github-pages**](https://castlefenix.github.io// ).   💻🙈
  <h1></h1>
- [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
+ <a href="https://github.com/castlefenix"> <i>Castlefenix</i></a> 😎💙
