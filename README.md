@@ -26,7 +26,7 @@
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
-
+* Creado por el increible Team Platzi💚
 
 <hr>
 
