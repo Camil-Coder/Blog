@@ -32,4 +32,5 @@
 <hr>
 
  [**Mira mi blog en github-pages**](https://castlefenix.github.io// "💻🙈").
+ <h1></h1>
  [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
